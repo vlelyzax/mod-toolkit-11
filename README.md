@@ -1,2 +1,6 @@
 # mod-toolkit-11
-Lightweight modular toolkit service component for distributed systems.
+
+Modular toolkit utility library for high-throughput architectures.
+
+## License
+MIT
